@@ -3,10 +3,10 @@
 <html>
     <head>
         <meta charset="utf-8" />
-        <title>Exemplo de View</title>
-        <link href="css/default.css" rel="stylesheet" />
+        <title>Olá mundo</title>
+        
     </head>
     <body>
-        <h1>Olá Spring!!!</h1>
+        <h1>Olá Mundo Luciana!!!</h1>
     </body>
 </html>
